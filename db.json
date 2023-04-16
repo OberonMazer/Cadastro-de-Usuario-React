@@ -1,19 +1,14 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Guilherme",
-      "email": "guifigomes@gmail.com"
-    },
-    {
-      "id": 2,
-      "name": "Leandro",
-      "email": "leandro@gmail.com"
-    },
-    {
-      "name": "Guilherme Figueira",
+      "name": "Guilherme Figueira Silva Gomes",
       "email": "guifigomes@protonmail.com",
-      "id": 3
+      "id": 1
+    },
+    {
+      "name": "Gustavo Figueira Silva Gomes",
+      "email": "strelok935@protonmail.com",
+      "id": 2
     }
   ]
 }
